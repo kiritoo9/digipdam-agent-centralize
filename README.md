@@ -6,7 +6,7 @@ DigiPDAM Agent Application Center
 #### Application: Devie Parser
 
 ```bash
-  cargo run -- -a devie-parser
+  cargo run -- -a device-parser
 ```
 
 | Parameter | Type     | Value                |
@@ -17,4 +17,4 @@ DigiPDAM Agent Application Center
 Kirito
 
 ## Version
-1.0
+1.0.1-rc

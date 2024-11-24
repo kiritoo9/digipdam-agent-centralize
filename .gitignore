@@ -1,0 +1,6 @@
+# environment
+.env.development
+.env.production
+
+# build
+target/
